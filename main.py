@@ -25,6 +25,4 @@ population_change = "increased" if future_population > current_population else "
 
 print(f"The population in {years} years will be {future_population}")
 print(f"The population {population_change}")
-# Enter Code here
-# Read the README - under files on left
-# Delete these three lines before submitting
+
