@@ -6,6 +6,9 @@
 # based on a current population amount given (1) how often someone is born (in seconds),
 # (2) how often someone dies (in seconds), and (3) how often a new immigrant joins the country (in seconds).
 
+# State purpose of program
+print ("Welcome! This program predicts the future population of a country based on factors you input.")
+
 # Constants
 seconds_in_a_year = 365 * 24 * 60 * 60  # Seconds in a year
 
@@ -33,8 +36,10 @@ future_population = int(future_population)
 # Determine if population increased or decreased
 if future_population > current_population:
     population_change = "increased"
-else:
+elif future_population < current_population:
     population_change = "decreased"
+else:
+    population_change = "stayed the same"
 
 # Print the results
 print("The population in" ,years, "years will be" ,future_population)
