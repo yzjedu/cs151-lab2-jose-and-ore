@@ -1,7 +1,7 @@
 # Programmers: Oreoluwa Adebusoye, Jose Carrillo
 # Course:  CS151, Dr. Zelalem Jembre Yalew
 # Due Date: 9/25/2024
-# Lab Assignment: 1
+# Lab Assignment: 02
 # What program does: This program determines the expected population in the future for a country
 # based on a current population amount given (1) how often someone is born (in seconds),
 # (2) how often someone dies (in seconds), and (3) how often a new immigrant joins the country (in seconds).
