@@ -9,8 +9,8 @@
 ### Blind Test
 |Result |Description|
 |--------------|-----------------------------------------|
-| **-NO** | The purpose of the program is displayed |  
-| **-NO** | Passes test case #1|   
+| **-YES** | The purpose of the program is displayed |  
+| **-YES** | Passes test case #1|   
 | **YES-** | Passes test case #2|
 | **YES-** | Passes test case #3|    
 | **YES-** | Passes test case #4|   
@@ -21,7 +21,7 @@
 ### Open Test
 |Result |Description|
 |--------------|-----------------------------------------|
-|**-NO**| The algorithm matches the code   |
+|**-YES**| The algorithm matches the code   |
 |**YES-**| There is a block of introductory comments at the top |  
 |**YES-**| Purpose of the program is stated below or above intro comments as a comment  |
 |**YES-**| There are comments in the code (do not need to determine if they are good)|
@@ -30,4 +30,4 @@
 ### Comments on the grading
 - The algorithm and the code does not match. That is a reason for a revision 
 - Address all NO in the feedback document 
-### Grade: R
+### Grade: E
